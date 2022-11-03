@@ -12,11 +12,11 @@
 
               </li>
               <li class="nav-item">
-                <RouterLink class="nav-link active" to="/contact">Contact</RouterLink>
+                <RouterLink class="nav-link active" to="/about">About</RouterLink>
                 </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  About me
+                    Contact
                 </a>
                 <ul class="dropdown-menu">
                   <li><router-link class="dropdown-item" to="/profile">Profile</router-link></li>
